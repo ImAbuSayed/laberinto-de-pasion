@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/laberinto-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Laberinto de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/laberinto-de-pasion/) |
+| **Get License** | [Obtain a Music License for Laberinto de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/laberinto-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me invitan a un juego prohibido, yeah
+> Esta noche en el club, perdimos el sentido
+> Acércate guapa, rompe la distancia
+> Déjame perderme en tu dulce fragancia
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
