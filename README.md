@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/laberinto-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Laberinto de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/laberinto-de-pasion/) |
+| **Get License** | [License this song: Laberinto de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/laberinto-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e43f7e9246cf8c68071e378508a8934386644db659e6ab2d3193a274fda1eaa7` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
